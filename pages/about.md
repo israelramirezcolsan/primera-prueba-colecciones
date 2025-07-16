@@ -12,7 +12,7 @@ credits: true
 
 ## Sobre la edición
 
-**Primer ejemplo** del trabajo en el curso de edición digital impartido por la Universita di Verona y el Laboratorio HD de CONICET
+**Primer ejemplo** del trabajo en el curso de edición digital impartido por la Universita di Verona y el Laboratorio HD de CONICET.
 
 ## Metodología
 
