@@ -12,20 +12,9 @@ credits: true
 
 ## Sobre la edición
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+Primer ejemplo del trabajo en el curso de edición digital impartido por la Universita di Verona y el Laboratorio HD de CONICET
 
-## Sección 1
-
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-
-
-## Sección 2
+## Metodología
 
 **Título**
 
@@ -33,10 +22,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula puru
 *Ítem en lista*<br/>
 *Ítem en lista*<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+Se tomaron los materiales digitalizados por la BNE. El marcado TEI se concentró en identificar nombres de personas, lugares y destacar notas de información general.
 
 
-## Sección 3
+## Proyectos semejantes
 
 **Título**
 
@@ -44,5 +33,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula puru
 *Ítem en lista*<br/>
 *Ítem en lista*<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+A continuación de muestra un listado de proyectos semejantes donde se realizan ediciones digitales de obras hispánicas.
+
+
+## Productos derivados
+
+**Título**
+
+*Ítem en lista*<br/>
+*Ítem en lista*<br/>
+*Ítem en lista*<br/>
+
+En este proyecto colaboran dos estudiantes de doctorado, cuyas tesis de orientan al estudio de obras hispánicas. Se han presentado dos ponencias y se tiene un libro en imprenta.
 
